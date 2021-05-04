@@ -1,4 +1,4 @@
-# Google-Kickstart-Question-1
+# K-Goodness Score
 
 
 Charles defines the goodness score of a string as the number of indices i such that Si =/+ SN-i+1
